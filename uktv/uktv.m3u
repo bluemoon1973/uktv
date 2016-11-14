@@ -7,6 +7,8 @@
 
 #EXTINF:-1,[COLOR red]BBC ONE[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070000.m3u8
+#EXTINF:-1,[COLOR red]BBC 1 NORTHWEST[/COLOR]
+http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
 #EXTINF:-1,[COLOR red]BBC TWO[/COLOR]
 BBC 2,http://vs-hls-uk-live.edgesuite.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070000.m3u8[COLOR red]BBC 3
 #EXTINF:-1,[COLOR red]BBC FOUR[/COLOR]
@@ -20,11 +22,13 @@ http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800
 #EXTINF:-1,[COLOR red]ITV 4[/COLOR]
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 #EXTINF:-1,[COLOR red]CHANNEL 4[/COLOR]
-http://s90.cdn.tvcatchup.com/channel4_hi.m3u8?streamKey=2e16c59e48f258b16a56d4b778a18535-53983334aa0e612c71992f869bb18613
+http://live.tvplayer.com/channel4/5/a0c1d5f4b75614f6bc89d4a11260a791_5_2016-11-14_17-16-51_130121.ts
 #EXTINF:-1,[COLOR red]CHANNEL 5[/COLOR]
-http://live-880.ld5.edge.filmon.com/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe799ccab8a5595db7626193c3997dd9bbf005a079a47c57694b0ef0ffa2ce3f15adff3c1d966374a2a7538bae5bf265fd59b8d0489cd20042833d85f8a25834e32036f00189d0185bce231ed424e6718334acb4e00b4e4dda0414e882a2e843cb18629d2afd570feaa7c5b4d23e20c67c10476f75c674af73ce5fad795f9eb75e95104573ec7bc010829df7486a532fa5
+http://live.tvplayer.com/channel5/5/prog_index.m3u8
 #EXTINF:-1,[COLOR red]DAVE[/COLOR]
 http://live.tvplayer.com/dave/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]DAVE JA VU[/COLOR]
+http://live.tvplayer.com/davejavu/5/prog_index.m3u8
 #EXTINF:-1,[COLOR red]REALLY[/COLOR]
 http://live.tvplayer.com/really/5/prog_index.m3u8
 #EXTINF:-1,[COLOR red]BBC 1 NORTHWEST[/COLOR]
@@ -35,20 +39,42 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 #EXTINF:-1,[COLOR red]YESTERDAY[/COLOR]
 http://live.tvplayer.com/yesterday/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]YESTERDAY +1[/COLOR]
+http://live.tvplayer.com/yesterdayplus1/5/prog_index.m3u8
 #EXTINF:-1,[COLOR red]DRAMA[/COLOR]
 http://live.tvplayer.com/drama/5/prog_index.m3u8
-#EXTINF:-1,[COLOR red]DISCOVERY US[/COLOR]
-http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/11/amlst:mainstream/demotiki11.m3u8?op_id=19&userId=0&channelId=40686&stime=1475787230&etime=1475873630&token=050738d4f2ba26b678c63
-#EXTINF:-1,[COLOR red]VIRGINIA TV[/COLOR]
-http://edge1.tikilive.com:1935/html5_tikilive/41836/amlst:mainstream/chunklist_w2081017806_b2030236.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQxODM2JmNOYW1lPVZpcmdpbmlhJTIwVFYmb0lEPTE0NjM0NCZvTmFtZT1CcnlhbnQzMjYmc0lkPWYxaWR0Y245aTdmcWJ1a24yMTJsanEzbjg2JnVJRD0wJnVOYW1lPUd1ZXN0OTdjNGI%3D&id=3Q77FskCbyabx_auCSrR
-#EXTINF:-1,[COLOR red]DISCOVERY SHED[/COLOR]
-http://devcon.1dns1.com:8080/live/clinecenter.com/Na6Q3AsWMw/1128.m3u8
-#EXTINF:-1,[COLOR red]DISCOVERY HISTORY[/COLOR]
-http://devcon.1dns1.com:8080/live/clinecenter.com/Na6Q3AsWMw/1129.m3u8
+#EXTINF:-1,[COLOR red]HOME[/COLOR]
+http://live.tvplayer.com/home/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]QUEST[/COLOR]
+http://live.tvplayer.com/quest/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]QUEST +1[/COLOR]
+http://live.tvplayer.com/questplus1/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]FOOD NETWORK[/COLOR]
+http://live.tvplayer.com/food/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]TRUTV[/COLOR]
+http://live.tvplayer.com/trutv/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]QVC[/COLOR]
+http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi5/3/prog_index.m3u8
+#EXTINF:-1,[COLOR red]QVC BEAUTY[/COLOR]
+http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi6/3/prog_index.m3u8
+#EXTINF:-1,[COLOR red]QVC STYLE[/COLOR]
+http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:-1,[COLOR red]QVC EXTRA[/COLOR]
+http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi7/3/prog_index.m3u8
+
+
+
+#EXTINF:-1,[COLOR red][/COLOR]
+#EXTINF:-1,[COLOR red][/COLOR]
+#EXTINF:-1,[COLOR red][/COLOR]
+#EXTINF:-1,[COLOR red][/COLOR]
+#EXTINF:-1,[COLOR red][/COLOR]
+
+
 
 #EXTINF:-1,[COLOR green]KIDS[/COLOR]
 
-#EXTINF:-1,[COLOR red]CARTOON NETWORK[/COLOR]
+#EXTINF:-1,
 #EXTINF:-1,[COLOR red]CBBC[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070000.m3u8
 #EXTINF:-1,[COLOR red]CBEEBIES[/COLOR]
@@ -61,7 +87,7 @@ http://vs-hls-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbe
 
 #EXTINF:-1,[COLOR green]SPORTS[/COLOR]
 
-#EXTINF:-1,COLOR yellow]SKY SPORTS NEWS[/COLOR]
+#EXTINF:-1,[COLOR yellow]SKY SPORTS NEWS[/COLOR]
 http://149.202.207.8:8080/kAlo00kHhAnsyjkiy-sp-ns/Strm/index.m3u8
 #EXTINF:-1,[COLOR yellow]Eurosport 1 uk[/COLOR]
 http://149.202.207.8:8080/kAlo00kHhAneiuor-1/Strm/index.m3u8
@@ -85,8 +111,40 @@ http://88.150.206.73:8081/streamflare/bteurope/chunks.m3u8?nimblesessionid=20170
 http://5.226.137.162:8081/BT/11111/index.m3u8?token=NmY1MjZiZDMxNjVmYzUxNTM1Yzg3N2Q0YjViODVjYjU6MTQ3OTEzOTg3MA==
 #EXTINF:-1,[COLOR yellow]BT Sport 2[/COLOR]
 http://88.150.206.73:8081/streamflare/bt2/chunks.m3u8?nimblesessionid=20170957&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjIzOjM2IFBNJmhhc2hfdmFsdWU9aW5kOW5lRWlxZTR3MHZaVEhzL0xhZz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1,[COLOR green]RADIO[/COLOR]
 
+
+#EXTINF:-1,[COLOR green]MUSIC[/COLOR]
+
+#EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
+http://live.tvplayer.com/4music/4/prog_index.m3u8
+#EXTINF:-1,[COLOR blue]MAGIC[/COLOR]
+http://live.tvplayer.com/magic/4/prog_index.m3u8
+#EXTINF:-1,[COLOR blue]THE BOX[/COLOR]
+http://live.tvplayer.com/box/4/prog_index.m3u8
+#EXTINF:-1,[COLOR blue]THE BOX HITS[/COLOR]
+http://live.tvplayer.com/smashhits/4/prog_index.m3u8
+#EXTINF:-1,[COLOR blue]KISS[/COLOR]
+http://live.tvplayer.com/kiss/4/prog_index.m3u8
+#EXTINF:-1,[COLOR blue]KERRANG[/COLOR]
+http://live.tvplayer.com/kerrang/4/prog_index.m3u8
+#EXTINF:-1,[COLOR blue]HEART[/COLOR]
+http://live.tvplayer.com/heart/3/prog_index.m3u8
+#EXTINF:-1,[COLOR blue]CAPITAL[/COLOR]
+http://live.tvplayer.com/capital/3/prog_index.m3u8
+#EXTINF:-1,[COLOR blue]NOW THAT WHAT I CALL MUSIC[/COLOR]
+http://live.tvplayer.com/nowmusic/5/prog_index.m3u8
+#EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
+#EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
+#EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
+
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR green]RADIO[/COLOR]
 #EXTINF:-1,[COLOR blue]Radio 1[/COLOR]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p?s=1478006549&e=1478020949&h=a2900c0b2d227caf20f6e0cb18c0f09c
 #EXTINF:-1,[COLOR blue]Radio 2[/COLOR]
