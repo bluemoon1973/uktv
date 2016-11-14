@@ -5,11 +5,11 @@
 #EXTINF:-1,[COLOR green]UK TV[/COLOR]
 
 
-#EXTINF:-1,[COLOR red]BBC 1[/COLOR]
+#EXTINF:-1,[COLOR red]BBC ONE[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070000.m3u8
-#EXTINF:-1,[COLOR red]BBC 2[/COLOR]
+#EXTINF:-1,[COLOR red]BBC TWO[/COLOR]
 BBC 2,http://vs-hls-uk-live.edgesuite.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070000.m3u8[COLOR red]BBC 3
-#EXTINF:-1,[COLOR red]BBC 4[/COLOR]
+#EXTINF:-1,[COLOR red]BBC FOUR[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_33/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070000.m3u8
 #EXTINF:-1,[COLOR red]ITV 1[/COLOR]
 http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
