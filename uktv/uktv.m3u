@@ -30,18 +30,19 @@ http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/20161103T134559/master_Main1800/00054/master_Main1800_00147.ts
 
 #EXTINF:-1,[COLOR red]CHANNEL 4[/COLOR]
+http://live.tvplayer.com/channel4/5/7dc8421fea3763e0ea31d0bbf3891e7e_5_2016-11-14_20-25-15_131534.ts
 
 #EXTINF:-1,[COLOR red]CHANNEL 5[/COLOR]
 http://live.tvplayer.com/channel5/5/prog_index.m3u8
 
 #EXTINF:-1,[COLOR red]DAVE[/COLOR]
-http://live.tvplayer.com/dave/5/prog_index.m3u8
+http://live.tvplayer.com/dave/5/220ab1eeb7b52b5b0534dda1db1d5444_5_2016-11-14_20-22-49_133848.ts
 
 #EXTINF:-1,[COLOR red]DAVE JA VU[/COLOR]
-http://live.tvplayer.com/davejavu/5/prog_index.m3u8
+http://live.tvplayer.com/davejavu/5/50e8e700cfb10981e511163de9a879e0_5_2016-11-14_20-37-35_093932.ts
 
 #EXTINF:-1,[COLOR red]REALLY[/COLOR]
-http://live.tvplayer.com/really/5/prog_index.m3u8
+http://live.tvplayer.com/really/5/12ab288c3002f9c57ad4ef9c086ec11d_5_2016-11-14_20-25-55_206587.ts
 
 #EXTINF:-1,[COLOR red]ITVBe[/COLOR]
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8
@@ -50,28 +51,31 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 
 #EXTINF:-1,[COLOR red]YESTERDAY[/COLOR]
-http://live.tvplayer.com/yesterday/5/prog_index.m3u8
+http://live.tvplayer.com/yesterday/5/5ec43f10fd9d738d8916561c4e92221f_5_2016-11-14_20-26-38_093850.ts
 
 #EXTINF:-1,[COLOR red]YESTERDAY +1[/COLOR]
-http://live.tvplayer.com/yesterdayplus1/5/prog_index.m3u8
+http://live.tvplayer.com/yesterdayplus1/5/bfa4bf1348eae9fa0615ce3a7d89eacd_5_2016-11-14_20-38-31_201787.ts
 
 #EXTINF:-1,[COLOR red]DRAMA[/COLOR]
-http://live.tvplayer.com/drama/5/prog_index.m3u8
+http://live.tvplayer.com/drama/5/ef0bc39fd9e4d5b7c5c5bf39dd6d40bc_5_2016-11-14_20-27-34_139551.ts
 
 #EXTINF:-1,[COLOR red]HOME[/COLOR]
-http://live.tvplayer.com/home/5/prog_index.m3u8
+http://live.tvplayer.com/home/5/e65060d33209073601d1b9fda7c8dca8_5_2016-11-14_20-28-13_205467.ts
 
 #EXTINF:-1,[COLOR red]QUEST[/COLOR]
-http://live.tvplayer.com/quest/5/prog_index.m3u8
+http://live.tvplayer.com/quest/5/3a9e74605b42a9a3aa16ca76a674e761_5_2016-11-14_20-30-51_139739.ts
 
 #EXTINF:-1,[COLOR red]QUEST +1[/COLOR]
 http://live.tvplayer.com/questplus1/5/prog_index.m3u8
 
 #EXTINF:-1,[COLOR red]FOOD NETWORK[/COLOR]
-http://live.tvplayer.com/food/5/prog_index.m3u8
+http://live.tvplayer.com/food/5/829087208020915ac1c1d559b67980dc_5_2016-11-14_20-32-02_63119.ts
 
 #EXTINF:-1,[COLOR red]TRUTV[/COLOR]
-http://live.tvplayer.com/trutv/5/prog_index.m3u8
+http://live.tvplayer.com/trutv/5/66b08cb93066beefcc6a6c7e83ef53e1_5_2016-11-14_20-33-17_13699.ts
+
+#EXTINF:-1,]COLOR red]TRAVEL CHANNEL[/COLOR]
+http://live.tvplayer.com/travel/5/b34b058e443782e28e3687fd4c401898_5_2016-11-14_20-34-42_68677.ts
 
 #EXTINF:-1,[COLOR red]QVC[/COLOR]
 http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi5/3/prog_index.m3u8
@@ -154,31 +158,29 @@ http://88.150.206.73:8081/streamflare/bt2/chunks.m3u8?nimblesessionid=20170957&w
 #EXTINF:-1,[COLOR green]MUSIC[/COLOR]
 
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
-http://live.tvplayer.com/4music/4/prog_index.m3u8
+http://live.tvplayer.com/4music/4/8b728c850f0f9e9fac1a55dbcdffff7d_4_2016-11-14_20-28-47_28524.ts
 
 #EXTINF:-1,[COLOR blue]MAGIC[/COLOR]
-http://live.tvplayer.com/magic/4/prog_index.m3u8
+http://live.tvplayer.com/magic/4/4a6c43cb6001230cbc532a228365d42e_4_2016-11-14_20-35-47_424122.ts
 
 #EXTINF:-1,[COLOR blue]THE BOX[/COLOR]
-http://live.tvplayer.com/box/4/prog_index.m3u8
-
-#EXTINF:-1,[COLOR blue]THE BOX HITS[/COLOR]
-http://live.tvplayer.com/smashhits/4/prog_index.m3u8
+http://live.tvplayer.com/box/4/5e4ea97440a0857887b38d78fe01a3e6_4_2016-11-14_20-36-29_258248.ts
 
 #EXTINF:-1,[COLOR blue]KISS[/COLOR]
-http://live.tvplayer.com/kiss/4/prog_index.m3u8
+http://live.tvplayer.com/kiss/4/61f3b7e801ede81e9bec1ab2c7f0dc37_4_2016-11-14_20-39-27_248477.ts
 
 #EXTINF:-1,[COLOR blue]KERRANG[/COLOR]
-http://live.tvplayer.com/kerrang/4/prog_index.m3u8
+http://live.tvplayer.com/kerrang/4/4be5140840dacb98e573306fc7f861dd_4_2016-11-14_20-40-16_331678.ts
 
 #EXTINF:-1,[COLOR blue]HEART[/COLOR]
-http://live.tvplayer.com/heart/3/prog_index.m3u8
+http://live.tvplayer.com/heart/3/7c3312b9c0d89a7dada87b1434505cf4_3_2016-11-14_20-41-02_194489.ts
 
 #EXTINF:-1,[COLOR blue]CAPITAL[/COLOR]
-http://live.tvplayer.com/capital/3/prog_index.m3u8
+http://live.tvplayer.com/capital/3/7ed8a8c2555bb9e45e62fb3bacd37965_3_2016-11-14_20-42-34_134593.ts
 
 #EXTINF:-1,[COLOR blue]NOW THAT WHAT I CALL MUSIC[/COLOR]
-http://live.tvplayer.com/nowmusic/5/prog_index.m3u8
+http://live.tvplayer.com/nowmusic/5/7842b3c00d400b7f0a2eb9f4535f5118_5_2016-11-14_20-42-13_123892.ts
+
 
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
