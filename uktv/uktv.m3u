@@ -7,58 +7,81 @@
 
 #EXTINF:-1,[COLOR red]BBC ONE[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070000.m3u8
-#EXTINF:-1,[COLOR red]BBC 1 NORTHWEST[/COLOR]
+
+#EXTINF:-1,[COLOR red]BBC 1 NW[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
+
 #EXTINF:-1,[COLOR red]BBC TWO[/COLOR]
-BBC 2,http://vs-hls-uk-live.edgesuite.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070000.m3u8[COLOR red]BBC 3
+BBC 2,http://vs-hls-uk-live.edgesuite.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070000.m3u8
+
 #EXTINF:-1,[COLOR red]BBC FOUR[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_33/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070000.m3u8
+
 #EXTINF:-1,[COLOR red]ITV 1[/COLOR]
 http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
+
 #EXTINF:-1,[COLOR red]ITV 2[/COLOR]
 http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1800.m3u8
+
 #EXTINF:-1,[COLOR red]ITV 3[/COLOR]
 http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
+
 #EXTINF:-1,[COLOR red]ITV 4[/COLOR]
-http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
+http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/20161103T134559/master_Main1800/00054/master_Main1800_00147.ts
+
 #EXTINF:-1,[COLOR red]CHANNEL 4[/COLOR]
-http://live.tvplayer.com/channel4/5/a0c1d5f4b75614f6bc89d4a11260a791_5_2016-11-14_17-16-51_130121.ts
+
 #EXTINF:-1,[COLOR red]CHANNEL 5[/COLOR]
 http://live.tvplayer.com/channel5/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]DAVE[/COLOR]
 http://live.tvplayer.com/dave/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]DAVE JA VU[/COLOR]
 http://live.tvplayer.com/davejavu/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]REALLY[/COLOR]
 http://live.tvplayer.com/really/5/prog_index.m3u8
-#EXTINF:-1,[COLOR red]BBC 1 NORTHWEST[/COLOR]
-http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
+
 #EXTINF:-1,[COLOR red]ITVBe[/COLOR]
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8
+
 #EXTINF:-1,[COLOR red]CITV[/COLOR]
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
+
 #EXTINF:-1,[COLOR red]YESTERDAY[/COLOR]
 http://live.tvplayer.com/yesterday/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]YESTERDAY +1[/COLOR]
 http://live.tvplayer.com/yesterdayplus1/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]DRAMA[/COLOR]
 http://live.tvplayer.com/drama/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]HOME[/COLOR]
 http://live.tvplayer.com/home/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]QUEST[/COLOR]
 http://live.tvplayer.com/quest/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]QUEST +1[/COLOR]
 http://live.tvplayer.com/questplus1/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]FOOD NETWORK[/COLOR]
 http://live.tvplayer.com/food/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]TRUTV[/COLOR]
 http://live.tvplayer.com/trutv/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]QVC[/COLOR]
 http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi5/3/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]QVC BEAUTY[/COLOR]
 http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi6/3/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]QVC STYLE[/COLOR]
 http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+
 #EXTINF:-1,[COLOR red]QVC EXTRA[/COLOR]
 http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi7/3/prog_index.m3u8
 
@@ -77,9 +100,11 @@ http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi7/3/prog_index.m3u
 #EXTINF:-1,
 #EXTINF:-1,[COLOR red]CBBC[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070000.m3u8
+
 #EXTINF:-1,[COLOR red]CBEEBIES[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d827000.m3u8
-#EXTINF:-1,[COLOR red]BBC 1 NORTHWEST[/COLOR]
+
+#EXTINF:-1,
 
 
 
@@ -89,26 +114,39 @@ http://vs-hls-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbe
 
 #EXTINF:-1,[COLOR yellow]SKY SPORTS NEWS[/COLOR]
 http://149.202.207.8:8080/kAlo00kHhAnsyjkiy-sp-ns/Strm/index.m3u8
+
 #EXTINF:-1,[COLOR yellow]Eurosport 1 uk[/COLOR]
 http://149.202.207.8:8080/kAlo00kHhAneiuor-1/Strm/index.m3u8
+
 #EXTINF:-1,[COLOR yellow]Eurosport 2 uk[/COLOR]
 http://149.202.207.8:8080/kAlo00kHhAneiuor-2/Strm/index.m3u8
+
 #EXTINF:-1,[COLOR yellow]SkySports 1[/COLOR]
 http://79.143.83.90:8600/Sports1/NAv/index.m3u8?token=N2ExYjliYjJjMTFlZmM3M2QyZTVkYjMyYjQ3YzM0NDk6MTQ3OTEzOTg3MA==
+
 #EXTINF:-1,[COLOR yellow]SkySports 2[/COLOR]
 http://88.150.206.73:8081/streamflare/skysports2/chunks.m3u8?nimblesessionid=20170690&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE2OjE5IFBNJmhhc2hfdmFsdWU9dFgrZmxIN3RCWFE0cVFJdXNrVDZhUT09JnZhbGlkbWludXRlcz0yMA==
+
+
 #EXTINF:-1,[COLOR yellow]SkySports 3[/COLOR]
 http://88.150.206.73:8081/streamflare/skysports3/chunks.m3u8?nimblesessionid=20170715&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE3OjE5IFBNJmhhc2hfdmFsdWU9VWI2UmhHbGZIRXR3ZEdjTHlZSngxQT09JnZhbGlkbWludXRlcz0yMA==
+
+
 #EXTINF:-1,[COLOR yellow]SkySports 4[/COLOR]
 http://88.150.206.73:8081/streamflare/skysports4/chunks.m3u8?nimblesessionid=20170748&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE4OjEwIFBNJmhhc2hfdmFsdWU9clIySStCQlZLRkg2eDR1NWxPQlhlZz09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:-1,[COLOR yellow]SkySports 5[/COLOR]
 http://88.150.206.73:8081/streamflare/skysports5/chunks.m3u8?nimblesessionid=20170806&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE5OjI5IFBNJmhhc2hfdmFsdWU9QU5nbk01cmpuOTNpWnVrekc5MVZjZz09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:-1,SkySportS F1
 http://88.150.206.73:8081/streamflare/skyf1/chunks.m3u8?nimblesessionid=20170872&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjIxOjE3IFBNJmhhc2hfdmFsdWU9dGF2bDJ1cUpaVmdOT2RocE5mVzZEQT09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:-1,[COLOR yellow] BT Sport Europe[/COLOR]
 http://88.150.206.73:8081/streamflare/bteurope/chunks.m3u8?nimblesessionid=20170986&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjI1OjAwIFBNJmhhc2hfdmFsdWU9Q0MzbGhFZ0p6dzg5OFlOYnBMdHQ5UT09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:-1,[COLOR yellow]BT Sport 1[/COLOR]
 http://5.226.137.162:8081/BT/11111/index.m3u8?token=NmY1MjZiZDMxNjVmYzUxNTM1Yzg3N2Q0YjViODVjYjU6MTQ3OTEzOTg3MA==
+
 #EXTINF:-1,[COLOR yellow]BT Sport 2[/COLOR]
 http://88.150.206.73:8081/streamflare/bt2/chunks.m3u8?nimblesessionid=20170957&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjIzOjM2IFBNJmhhc2hfdmFsdWU9aW5kOW5lRWlxZTR3MHZaVEhzL0xhZz09JnZhbGlkbWludXRlcz0yMA==
 
@@ -117,22 +155,31 @@ http://88.150.206.73:8081/streamflare/bt2/chunks.m3u8?nimblesessionid=20170957&w
 
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
 http://live.tvplayer.com/4music/4/prog_index.m3u8
+
 #EXTINF:-1,[COLOR blue]MAGIC[/COLOR]
 http://live.tvplayer.com/magic/4/prog_index.m3u8
+
 #EXTINF:-1,[COLOR blue]THE BOX[/COLOR]
 http://live.tvplayer.com/box/4/prog_index.m3u8
+
 #EXTINF:-1,[COLOR blue]THE BOX HITS[/COLOR]
 http://live.tvplayer.com/smashhits/4/prog_index.m3u8
+
 #EXTINF:-1,[COLOR blue]KISS[/COLOR]
 http://live.tvplayer.com/kiss/4/prog_index.m3u8
+
 #EXTINF:-1,[COLOR blue]KERRANG[/COLOR]
 http://live.tvplayer.com/kerrang/4/prog_index.m3u8
+
 #EXTINF:-1,[COLOR blue]HEART[/COLOR]
 http://live.tvplayer.com/heart/3/prog_index.m3u8
+
 #EXTINF:-1,[COLOR blue]CAPITAL[/COLOR]
 http://live.tvplayer.com/capital/3/prog_index.m3u8
+
 #EXTINF:-1,[COLOR blue]NOW THAT WHAT I CALL MUSIC[/COLOR]
 http://live.tvplayer.com/nowmusic/5/prog_index.m3u8
+
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
@@ -145,42 +192,59 @@ http://live.tvplayer.com/nowmusic/5/prog_index.m3u8
 
 
 #EXTINF:-1,[COLOR green]RADIO[/COLOR]
+
 #EXTINF:-1,[COLOR blue]Radio 1[/COLOR]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p?s=1478006549&e=1478020949&h=a2900c0b2d227caf20f6e0cb18c0f09c
+
 #EXTINF:-1,[COLOR blue]Radio 2[/COLOR]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p?s=1478183353&e=1478197753&h=da94bce9f4a7d4e6d36fcc2cbcb666ba
+
 #EXTINF:-1,[COLOR blue]Radio Lancashire[/COLOR]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlancs_mf_p?s=1478183833&e=1478198233&h=d435b7884353d0f8ea5fc3ed75589114
+
 #EXTINF:-1,[COLOR blue]BBC Radio Manchester[/COLOR]
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmanc_mf_p?s=1478185638&e=1478200038&h=f415a008517d84c4575ca7e9520d91ce
+
 #EXTINF:-1,[COLOR red]Radio Santa[/COLOR]
 http://149.255.59.164:8041/
 .m3u8
+
 #EXTINF:-1,[COLOR green]Absolute 60's[/COLOR]
 http://icy-e-bab-04-cr.sharp-stream.com:8000/absolute60s.mp3
+
 #EXTINF:-1,[COLOR green]Absolute 70's[/COLOR]
 http://icy-e-bab-04-cr.sharp-stream.com:8000/absolute70s.mp3
+
 #EXTINF:-1,[COLOR green]Absolute 80's[/COLOR]
 http://icy-e-bab-04-cr.sharp-stream.com:8000/absolute80s.mp3
+
 #EXTINF:-1,[COLOR green]Absolute 90's[/COLOR]
 http://icy-e-bab-04-cr.sharp-stream.com:8000/absolute90s.mp3
+
 #EXTINF:-1,[COLOR green]Absolute Classic Rock[/COLOR]
 http://icy-e-bab-04-cr.sharp-stream.com:8000/absoluteclassicrock.mp3
+
 #EXTINF:-1,[COLOR red]Capital Radio Manchester[/COLOR]
 http://media-the.musicradio.com:80/CapitalManchesterMP3
+
 #EXTINF:-1,[COLOR red]Heart North West[/COLOR]
 http://media-the.musicradio.com:80/HeartNorthWestMP3
+
 #EXTINF:-1,[COLOR red]Key 103[/COLOR]
 http://icy-e-bl-06-cr.sharp-stream.com:8000/key.mp3
+
 #EXTINF:-1,[COLOR green]Love 80's Manchester[/COLOR]
 http://rss-streaming.co.uk:8042/mp3
 Title1=Love80s Manchester
 Length1=-1
 Version=2
+
 #EXTINF:-1,[COLOR red]WAVE CHRISTMAS[/COLOR]
 http://www.thewave.co.uk/radioplayer/the-wave-christmas.mp3
+
 #EXTINF:-1,[COLOR red]RADIO CHRISTMAS[/COLOR]
 http://uk4.internet-radio.com:31467/live
+
 #EXTINF:-1,[COLOR red]CHRISTMAS HITS FM[/COLOR]
 http://46.105.118.14:24000/
 
