@@ -1,0 +1,89 @@
+﻿#EXTM3U
+
+#EXTINF:-1,[COLOR yellow]PHILS MEGA UKTV LIST[/COLOR]
+ 
+#EXTINF:-1,[COLOR green]UK TV[/COLOR]
+
+
+#EXTINF:-1,[COLOR red]BBC 1[/COLOR]
+http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070000.m3u8
+#EXTINF:-1,[COLOR red]BBC 2[/COLOR]
+BBC 2,http://vs-hls-uk-live.edgesuite.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070000.m3u8[COLOR red]BBC 3
+#EXTINF:-1,[COLOR red]BBC 4[/COLOR]
+http://vs-hls-uk-live.edgesuite.net/pool_33/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070000.m3u8
+#EXTINF:-1,[COLOR red]ITV 1[/COLOR]
+http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
+#EXTINF:-1,[COLOR red]ITV 2[/COLOR]
+http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1800.m3u8
+#EXTINF:-1,[COLOR red]ITV 3[/COLOR]
+http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
+#EXTINF:-1,[COLOR red]ITV 4[/COLOR]
+http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
+#EXTINF:-1,[COLOR red]CHANNEL 4[/COLOR]
+http://s90.cdn.tvcatchup.com/channel4_hi.m3u8?streamKey=2e16c59e48f258b16a56d4b778a18535-53983334aa0e612c71992f869bb18613
+#EXTINF:-1,[COLOR red]CHANNEL 5[/COLOR]
+http://live-880.ld5.edge.filmon.com/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe799ccab8a5595db7626193c3997dd9bbf005a079a47c57694b0ef0ffa2ce3f15adff3c1d966374a2a7538bae5bf265fd59b8d0489cd20042833d85f8a25834e32036f00189d0185bce231ed424e6718334acb4e00b4e4dda0414e882a2e843cb18629d2afd570feaa7c5b4d23e20c67c10476f75c674af73ce5fad795f9eb75e95104573ec7bc010829df7486a532fa5
+#EXTINF:-1,[COLOR red]DAVE[/COLOR]
+http://live.tvplayer.com/dave/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]REALLY[/COLOR]
+http://live.tvplayer.com/really/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]CBBC[/COLOR]
+http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070000.m3u8
+#EXTINF:-1,[COLOR red]CBEEBIES[/COLOR]
+http://vs-hls-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d827000.m3u8
+#EXTINF:-1,[COLOR red]BBC 1 NORTHWEST[/COLOR]
+http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
+#EXTINF:-1,[COLOR red]ITVBe[/COLOR]
+http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8
+#EXTINF:-1,[COLOR red]CITV[/COLOR]
+http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
+#EXTINF:-1,[COLOR red]YESTERDAY[/COLOR]
+http://live.tvplayer.com/yesterday/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]DRAMA[/COLOR]
+http://live.tvplayer.com/drama/5/prog_index.m3u8
+#EXTINF:-1,[COLOR red]DISCOVERY US[/COLOR]
+http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/11/amlst:mainstream/demotiki11.m3u8?op_id=19&userId=0&channelId=40686&stime=1475787230&etime=1475873630&token=050738d4f2ba26b678c63
+#EXTINF:-1,[COLOR red]VIRGINIA TV[/COLOR]
+http://edge1.tikilive.com:1935/html5_tikilive/41836/amlst:mainstream/chunklist_w2081017806_b2030236.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQxODM2JmNOYW1lPVZpcmdpbmlhJTIwVFYmb0lEPTE0NjM0NCZvTmFtZT1CcnlhbnQzMjYmc0lkPWYxaWR0Y245aTdmcWJ1a24yMTJsanEzbjg2JnVJRD0wJnVOYW1lPUd1ZXN0OTdjNGI%3D&id=3Q77FskCbyabx_auCSrR
+#EXTINF:-1,[COLOR red]DISCOVERY SHED[/COLOR]
+http://devcon.1dns1.com:8080/live/clinecenter.com/Na6Q3AsWMw/1128.m3u8
+#EXTINF:-1,[COLOR red]DISCOVERY HISTORY[/COLOR]
+http://devcon.1dns1.com:8080/live/clinecenter.com/Na6Q3AsWMw/1129.m3u8
+
+#EXTINF:-1,[COLOR green]KIDS[/COLOR]
+#EXTINF:-1,[COLOR red]CARTOON NETWORK[/COLOR]
+
+
+
+
+
+#EXTINF:-1,[COLOR green]SPORTS[/COLOR]
+    
+#EXTINF:-1,[COLOR red]Eurosport 1 uk[/COLOR]
+
+#EXTINF:-1,Eurosport 2 uk
+
+#EXTINF:-1,SkySport 1
+
+#EXTINF:-1,SkySport2
+
+#EXTINF:-1,SkySport 3
+
+#EXTINF:-1,SkySport 4
+
+#EXTINF:0,SkySport 5
+
+#EXTINF:0,SkySport F1
+
+#EXTINF:0, BT Sport Europe
+
+#EXTINF:0,BT Sport 1
+
+#EXTINF:0,BT Sport 2
+
+
+
+    
+        
+      
+   
