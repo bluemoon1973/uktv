@@ -27,10 +27,6 @@ http://live-880.ld5.edge.filmon.com/live/22.low.stream/playlist.m3u8?id=0ad5aac3
 http://live.tvplayer.com/dave/5/prog_index.m3u8
 #EXTINF:-1,[COLOR red]REALLY[/COLOR]
 http://live.tvplayer.com/really/5/prog_index.m3u8
-#EXTINF:-1,[COLOR red]CBBC[/COLOR]
-http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070000.m3u8
-#EXTINF:-1,[COLOR red]CBEEBIES[/COLOR]
-http://vs-hls-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d827000.m3u8
 #EXTINF:-1,[COLOR red]BBC 1 NORTHWEST[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
 #EXTINF:-1,[COLOR red]ITVBe[/COLOR]
@@ -51,36 +47,44 @@ http://devcon.1dns1.com:8080/live/clinecenter.com/Na6Q3AsWMw/1128.m3u8
 http://devcon.1dns1.com:8080/live/clinecenter.com/Na6Q3AsWMw/1129.m3u8
 
 #EXTINF:-1,[COLOR green]KIDS[/COLOR]
+
 #EXTINF:-1,[COLOR red]CARTOON NETWORK[/COLOR]
+#EXTINF:-1,[COLOR red]CBBC[/COLOR]
+http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070000.m3u8
+#EXTINF:-1,[COLOR red]CBEEBIES[/COLOR]
+http://vs-hls-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d827000.m3u8
+#EXTINF:-1,[COLOR red]BBC 1 NORTHWEST[/COLOR]
 
 
 
 
 
 #EXTINF:-1,[COLOR green]SPORTS[/COLOR]
-    
-#EXTINF:-1,[COLOR red]Eurosport 1 uk[/COLOR]
 
-#EXTINF:-1,Eurosport 2 uk
-
-#EXTINF:-1,SkySport 1
-
-#EXTINF:-1,SkySport2
-
-#EXTINF:-1,SkySport 3
-
-#EXTINF:-1,SkySport 4
-
-#EXTINF:0,SkySport 5
-
-#EXTINF:0,SkySport F1
-
-#EXTINF:0, BT Sport Europe
-
-#EXTINF:0,BT Sport 1
-
-#EXTINF:0,BT Sport 2
-
+#EXTINF:-1,COLOR yellow]SKY SPORTS NEWS[/COLOR]
+http://149.202.207.8:8080/kAlo00kHhAnsyjkiy-sp-ns/Strm/index.m3u8
+#EXTINF:-1,[COLOR yellow]Eurosport 1 uk[/COLOR]
+http://149.202.207.8:8080/kAlo00kHhAneiuor-1/Strm/index.m3u8
+#EXTINF:-1,[COLOR yellow]Eurosport 2 uk[/COLOR]
+http://149.202.207.8:8080/kAlo00kHhAneiuor-2/Strm/index.m3u8
+#EXTINF:-1,[COLOR yellow]SkySports 1[/COLOR]
+http://79.143.83.90:8600/Sports1/NAv/index.m3u8?token=N2ExYjliYjJjMTFlZmM3M2QyZTVkYjMyYjQ3YzM0NDk6MTQ3OTEzOTg3MA==
+#EXTINF:-1,[COLOR yellow]SkySports 2[/COLOR]
+http://88.150.206.73:8081/streamflare/skysports2/chunks.m3u8?nimblesessionid=20170690&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE2OjE5IFBNJmhhc2hfdmFsdWU9dFgrZmxIN3RCWFE0cVFJdXNrVDZhUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,[COLOR yellow]SkySports 3[/COLOR]
+http://88.150.206.73:8081/streamflare/skysports3/chunks.m3u8?nimblesessionid=20170715&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE3OjE5IFBNJmhhc2hfdmFsdWU9VWI2UmhHbGZIRXR3ZEdjTHlZSngxQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,[COLOR yellow]SkySports 4[/COLOR]
+http://88.150.206.73:8081/streamflare/skysports4/chunks.m3u8?nimblesessionid=20170748&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE4OjEwIFBNJmhhc2hfdmFsdWU9clIySStCQlZLRkg2eDR1NWxPQlhlZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,[COLOR yellow]SkySports 5[/COLOR]
+http://88.150.206.73:8081/streamflare/skysports5/chunks.m3u8?nimblesessionid=20170806&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE5OjI5IFBNJmhhc2hfdmFsdWU9QU5nbk01cmpuOTNpWnVrekc5MVZjZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,SkySportS F1
+http://88.150.206.73:8081/streamflare/skyf1/chunks.m3u8?nimblesessionid=20170872&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjIxOjE3IFBNJmhhc2hfdmFsdWU9dGF2bDJ1cUpaVmdOT2RocE5mVzZEQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,[COLOR yellow] BT Sport Europe[/COLOR]
+http://88.150.206.73:8081/streamflare/bteurope/chunks.m3u8?nimblesessionid=20170986&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjI1OjAwIFBNJmhhc2hfdmFsdWU9Q0MzbGhFZ0p6dzg5OFlOYnBMdHQ5UT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,[COLOR yellow]BT Sport 1[/COLOR]
+http://5.226.137.162:8081/BT/11111/index.m3u8?token=NmY1MjZiZDMxNjVmYzUxNTM1Yzg3N2Q0YjViODVjYjU6MTQ3OTEzOTg3MA==
+#EXTINF:-1,[COLOR yellow]BT Sport 2[/COLOR]
+http://88.150.206.73:8081/streamflare/bt2/chunks.m3u8?nimblesessionid=20170957&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjIzOjM2IFBNJmhhc2hfdmFsdWU9aW5kOW5lRWlxZTR3MHZaVEhzL0xhZz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1,[COLOR green]RADIO[/COLOR]
 
 #EXTINF:-1,[COLOR blue]Radio 1[/COLOR]
