@@ -158,10 +158,10 @@ http://88.150.206.73:8081/streamflare/bt2/chunks.m3u8?nimblesessionid=20170957&w
 #EXTINF:-1,[COLOR green]MUSIC[/COLOR]
 
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
-http://live.tvplayer.com/4music/4/8b728c850f0f9e9fac1a55dbcdffff7d_4_2016-11-15_20-28-47_28524.ts
+http://csm-e.tm.yospace.com/csm/live/78581126.m3u8?partnerId=463474&yo.ac=true&mediaId=4Music&mediaTitle=4Music&pageURL=http%3A%2F%2Fwww.boxplus.com%2F&streamPageURL=http%3A%2F%2Fwww.boxplus.com%2F&width=950&height=540
 
 #EXTINF:-1,[COLOR blue]MAGIC[/COLOR]
-http://live.tvplayer.com/magic/4/4a6c43cb6001230cbc532a228365d42e_4_2016-11-14_20-35-47_424122.ts
+http://csm-e.tm.yospace.com/csm/live/78581293.m3u8
 
 #EXTINF:-1,[COLOR blue]THE BOX[/COLOR]
 http://live.tvplayer.com/box/4/5e4ea97440a0857887b38d78fe01a3e6_4_2016-11-14_20-36-29_258248.ts
