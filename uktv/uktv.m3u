@@ -117,7 +117,7 @@ http://vs-hls-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbe
 #EXTINF:-1,[COLOR green]SPORTS[/COLOR]
 
 #EXTINF:-1,[COLOR yellow]SKY SPORTS NEWS[/COLOR]
-http://149.202.207.8:8080/kAlo00kHhAnsyjkiy-sp-ns/Strm/index.m3u8
+http://185.163.109.83:8081/live/239432.m3u8
 
 #EXTINF:-1,[COLOR yellow]Eurosport 1 uk[/COLOR]
 http://149.202.207.8:8080/kAlo00kHhAneiuor-1/Strm/index.m3u8
