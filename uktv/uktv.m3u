@@ -173,10 +173,10 @@ http://csm-e.tm.yospace.com/csm/live/78581270.m3u8
 http://csm-e.tm.yospace.com/csm/live/78581309.m3u8
 
 #EXTINF:-1,[COLOR blue]HEART[/COLOR]
-http://live.tvplayer.com/heart/3/7c3312b9c0d89a7dada87b1434505cf4_3_2016-11-14_20-41-02_194489.ts
+http://live.tvplayer.com/heart/3/prog_index.m3u8
 
 #EXTINF:-1,[COLOR blue]CAPITAL[/COLOR]
-http://live.tvplayer.com/capital/3/7ed8a8c2555bb9e45e62fb3bacd37965_3_2016-11-14_20-42-34_134593.ts
+http://live.tvplayer.com/capital/2/prog_index.m3u8
 
 #EXTINF:-1,[COLOR blue]BOX HITS[/COLOR]
 http://csm-e.tm.yospace.com/csm/live/78581208.m3u8
