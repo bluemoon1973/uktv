@@ -158,19 +158,19 @@ http://88.150.206.73:8081/streamflare/bt2/chunks.m3u8?nimblesessionid=20170957&w
 #EXTINF:-1,[COLOR green]MUSIC[/COLOR]
 
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
-http://csm-e.tm.yospace.com/csm/live/78581126.m3u8?partnerId=463474&yo.ac=true&mediaId=4Music&mediaTitle=4Music&pageURL=http%3A%2F%2Fwww.boxplus.com%2F&streamPageURL=http%3A%2F%2Fwww.boxplus.com%2F&width=950&height=540
+http://csm-e.tm.yospace.com/csm/live/78581126.m3u8
 
 #EXTINF:-1,[COLOR blue]MAGIC[/COLOR]
 http://csm-e.tm.yospace.com/csm/live/78581293.m3u8
 
 #EXTINF:-1,[COLOR blue]THE BOX[/COLOR]
-http://live.tvplayer.com/box/4/5e4ea97440a0857887b38d78fe01a3e6_4_2016-11-14_20-36-29_258248.ts
+http://csm-e.tm.yospace.com/csm/live/78581259.m3u8
 
 #EXTINF:-1,[COLOR blue]KISS[/COLOR]
-http://live.tvplayer.com/kiss/4/61f3b7e801ede81e9bec1ab2c7f0dc37_4_2016-11-14_20-39-27_248477.ts
+http://csm-e.tm.yospace.com/csm/live/78581270.m3u8
 
 #EXTINF:-1,[COLOR blue]KERRANG[/COLOR]
-http://live.tvplayer.com/kerrang/4/4be5140840dacb98e573306fc7f861dd_4_2016-11-14_20-40-16_331678.ts
+http://csm-e.tm.yospace.com/csm/live/78581309.m3u8
 
 #EXTINF:-1,[COLOR blue]HEART[/COLOR]
 http://live.tvplayer.com/heart/3/7c3312b9c0d89a7dada87b1434505cf4_3_2016-11-14_20-41-02_194489.ts
@@ -178,11 +178,12 @@ http://live.tvplayer.com/heart/3/7c3312b9c0d89a7dada87b1434505cf4_3_2016-11-14_2
 #EXTINF:-1,[COLOR blue]CAPITAL[/COLOR]
 http://live.tvplayer.com/capital/3/7ed8a8c2555bb9e45e62fb3bacd37965_3_2016-11-14_20-42-34_134593.ts
 
-#EXTINF:-1,[COLOR blue]NOW THAT WHAT I CALL MUSIC[/COLOR]
-http://live.tvplayer.com/nowmusic/5/7842b3c00d400b7f0a2eb9f4535f5118_5_2016-11-14_20-42-13_123892.ts
+#EXTINF:-1,[COLOR blue]BOX HITS[/COLOR]
+http://csm-e.tm.yospace.com/csm/live/78581208.m3u8
 
+#EXTINF:-1,[COLOR blue]BOX UPFRONT[/COLOR]
+http://csm-e.tm.yospace.com/csm/live/78581152.m3u8
 
-#EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
 
