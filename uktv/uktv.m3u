@@ -90,15 +90,6 @@ http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u
 http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi7/3/prog_index.m3u8
 
 
-
-#EXTINF:-1,[COLOR red][/COLOR]
-#EXTINF:-1,[COLOR red][/COLOR]
-#EXTINF:-1,[COLOR red][/COLOR]
-#EXTINF:-1,[COLOR red][/COLOR]
-#EXTINF:-1,[COLOR red][/COLOR]
-
-
-
 #EXTINF:-1,[COLOR green]KIDS[/COLOR]
 
 #EXTINF:-1,
@@ -107,11 +98,6 @@ http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4
 
 #EXTINF:-1,[COLOR red]CBEEBIES[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d827000.m3u8
-
-#EXTINF:-1,
-
-
-
 
 
 #EXTINF:-1,[COLOR green]SPORTS[/COLOR]
@@ -145,7 +131,7 @@ http://88.150.206.73:8081/streamflare/skysports5/chunks.m3u8?nimblesessionid=201
 #EXTINF:-1,SkySportS F1
 http://88.150.206.73:8081/streamflare/skyf1/chunks.m3u8?nimblesessionid=20170872&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjIxOjE3IFBNJmhhc2hfdmFsdWU9dGF2bDJ1cUpaVmdOT2RocE5mVzZEQT09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-1,[COLOR yellow] BT Sport Europe[/COLOR]
+#EXTINF:-1,[COLOR yellow]BT Sport Europe[/COLOR]
 http://88.150.206.73:8081/streamflare/bteurope/chunks.m3u8?nimblesessionid=20170986&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjI1OjAwIFBNJmhhc2hfdmFsdWU9Q0MzbGhFZ0p6dzg5OFlOYnBMdHQ5UT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1,[COLOR yellow]BT Sport 1[/COLOR]
@@ -185,12 +171,6 @@ http://csm-e.tm.yospace.com/csm/live/78581208.m3u8
 http://csm-e.tm.yospace.com/csm/live/78581152.m3u8
 
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
-#EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
-
-
-
-
-
 
 
 
