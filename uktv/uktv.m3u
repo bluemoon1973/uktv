@@ -6,7 +6,7 @@
 
 
 #EXTINF:-1,[COLOR red]BBC ONE[/COLOR]
-http://vs-dash-uk-live.akamaized.net/pool_32/live/bbc_one_london/bbc_one_london.isml/dash/bbc_one_london-video=1604032-386008712.m4s
+http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
 
 #EXTINF:-1,[COLOR red]BBC 1 NW[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
