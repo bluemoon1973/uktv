@@ -35,6 +35,9 @@ http://live.tvplayer.com/channel4/5/prog_index.m3u8
 #EXTINF:-1,[COLOR red]CHANNEL 5[/COLOR]
 http://live.tvplayer.com/channel5/5/prog_index.m3u8
 
+#EXTINF:-1,[COLOR red]5*[/COLOR]
+http://edge-823-ch-gv.filmon.com/live/851.low.stream/playlist.m3u8
+
 #EXTINF:-1,[COLOR red]DAVE[/COLOR]
 http://live.tvplayer.com/dave/5/prog_index.m3u8
 
