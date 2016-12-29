@@ -9,7 +9,7 @@
 http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070000.m3u8
 
 #EXTINF:-1,[COLOR red]BBC 1[/COLOR]
-http://edge-880-uk-ld.filmon.com/live/14.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe98efa4596974fd95f879ed4315f5dae7c5723f83a6af2d0f3c63d4901c622c1934425f065e714e48a90a48c70e844d72045441a8b8cd0c346b03edddb829b73b1a7248ae5fd5505c05924e2820aac81f309ee93458e01368cd17e2f3263422d68bfb8d448adaeb161f9ea4b4c9ff9c32a24b891bb382deda1bea8f5eb22f3018c16ae56f758267d9604686b98ff40b1e
+http://streams.yo.tv/srv4/ngrp:1.stream_all/chunklist_b1436442.m3u8
 
 #EXTINF:-1,[COLOR red]BBC TWO[/COLOR]
 http://live.tvplayer.com/bbctwo/5/prog_index.m3u8
