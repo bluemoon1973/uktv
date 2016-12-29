@@ -92,71 +92,63 @@ http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u
 #EXTINF:-1,[COLOR red]QVC EXTRA[/COLOR]
 http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi7/3/prog_index.m3u8
 
-
-
-#EXTINF:-1,[COLOR red][/COLOR]
-#EXTINF:-1,[COLOR red][/COLOR]
-#EXTINF:-1,[COLOR red][/COLOR]
-#EXTINF:-1,[COLOR red][/COLOR]
-#EXTINF:-1,[COLOR red][/COLOR]
-
-
-
 #EXTINF:-1,[COLOR green]KIDS[/COLOR]
 
-#EXTINF:-1,
 #EXTINF:-1,[COLOR red]CBBC[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070000.m3u8
 
 #EXTINF:-1,[COLOR red]CBEEBIES[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d827000.m3u8
 
-#EXTINF:-1,
-
-
-
-
 
 #EXTINF:-1,[COLOR green]SPORTS[/COLOR]
 
 #EXTINF:-1,[COLOR yellow]SKY SPORTS NEWS[/COLOR]
-http://185.163.109.83:8081/live/239432.m3u8
+http://185.102.218.56/p2p/4b200ad68aeb55750139f206f6c47a7d.m3u8
 
 #EXTINF:-1,[COLOR yellow]Eurosport 1 uk[/COLOR]
-http://149.202.207.8:8080/kAlo00kHhAneiuor-1/Strm/index.m3u8
+http://185.152.64.235/p2p/7adc3be6083aeecdcfd51f2cc92d3713.m3u8
 
 #EXTINF:-1,[COLOR yellow]Eurosport 2 uk[/COLOR]
-http://149.202.207.8:8080/kAlo00kHhAneiuor-2/Strm/index.m3u8
+http://185.152.64.236/p2p/b17a4be223d6d945f21785dc401a0429.m3u8
 
 #EXTINF:-1,[COLOR yellow]SkySports 1[/COLOR]
-http://79.143.83.90:8600/Sports1/NAv/index.m3u8?token=N2ExYjliYjJjMTFlZmM3M2QyZTVkYjMyYjQ3YzM0NDk6MTQ3OTEzOTg3MA==
+http://185.59.222.232/p2p/3562f7795a18fc93d94ad2cb616c3d90.m3u8
 
 #EXTINF:-1,[COLOR yellow]SkySports 2[/COLOR]
-http://88.150.206.73:8081/streamflare/skysports2/chunks.m3u8?nimblesessionid=20170690&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE2OjE5IFBNJmhhc2hfdmFsdWU9dFgrZmxIN3RCWFE0cVFJdXNrVDZhUT09JnZhbGlkbWludXRlcz0yMA==
-
+http://185.102.218.56/p2p/c715e3cbca072810c4d5216b0827437b.m3u8
 
 #EXTINF:-1,[COLOR yellow]SkySports 3[/COLOR]
-http://88.150.206.73:8081/streamflare/skysports3/chunks.m3u8?nimblesessionid=20170715&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE3OjE5IFBNJmhhc2hfdmFsdWU9VWI2UmhHbGZIRXR3ZEdjTHlZSngxQT09JnZhbGlkbWludXRlcz0yMA==
-
+http://185.102.219.67/p2p/b08a0de2cc219730e9c09da5495c9dac.m3u8
 
 #EXTINF:-1,[COLOR yellow]SkySports 4[/COLOR]
-http://88.150.206.73:8081/streamflare/skysports4/chunks.m3u8?nimblesessionid=20170748&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE4OjEwIFBNJmhhc2hfdmFsdWU9clIySStCQlZLRkg2eDR1NWxPQlhlZz09JnZhbGlkbWludXRlcz0yMA==
+http://185.102.219.67/p2p/7a443b23f8bbf3b9cf365cc5057cf029.m3u8
 
 #EXTINF:-1,[COLOR yellow]SkySports 5[/COLOR]
-http://88.150.206.73:8081/streamflare/skysports5/chunks.m3u8?nimblesessionid=20170806&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjE5OjI5IFBNJmhhc2hfdmFsdWU9QU5nbk01cmpuOTNpWnVrekc5MVZjZz09JnZhbGlkbWludXRlcz0yMA==
+http://185.152.64.236/p2p/ce89bce2a42f4d7df8854af633da1a86.m3u8
 
 #EXTINF:-1,SkySportS F1
 http://88.150.206.73:8081/streamflare/skyf1/chunks.m3u8?nimblesessionid=20170872&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjIxOjE3IFBNJmhhc2hfdmFsdWU9dGF2bDJ1cUpaVmdOT2RocE5mVzZEQT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1,[COLOR yellow] BT Sport Europe[/COLOR]
-http://88.150.206.73:8081/streamflare/bteurope/chunks.m3u8?nimblesessionid=20170986&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjI1OjAwIFBNJmhhc2hfdmFsdWU9Q0MzbGhFZ0p6dzg5OFlOYnBMdHQ5UT09JnZhbGlkbWludXRlcz0yMA==
+http://185.152.64.235/p2p/ba7c7bb9f1f2be48a9041f6a308eaa92.m3u8
 
 #EXTINF:-1,[COLOR yellow]BT Sport 1[/COLOR]
-http://5.226.137.162:8081/BT/11111/index.m3u8?token=NmY1MjZiZDMxNjVmYzUxNTM1Yzg3N2Q0YjViODVjYjU6MTQ3OTEzOTg3MA==
+http://185.59.222.232/p2p/feb9c19124327ffd2bae3c97249ea40e.m3u8
 
 #EXTINF:-1,[COLOR yellow]BT Sport 2[/COLOR]
 http://88.150.206.73:8081/streamflare/bt2/chunks.m3u8?nimblesessionid=20170957&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjIzOjM2IFBNJmhhc2hfdmFsdWU9aW5kOW5lRWlxZTR3MHZaVEhzL0xhZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,[COLOR yellow]Astro Supersport 1[/COLOR]
+http://185.152.64.235/p2p/d18cd4075a6813b7a2defb7c5d2a54d9.m3u8
 
+#EXTINF:-1,[COLOR yellow]Astro Supersport 2[/COLOR]
+http://185.102.219.67/p2p/cc4f215d2c10b088664c6074c420066c.m3u8
+
+#EXTINF:-1,[COLOR yellow]Astro Supersport 3[/COLOR]
+http://185.102.219.67/p2p/7c781327d4ed0e608fc10297c77e66bd.m3u8
+
+#EXTINF:-1,[COLOR yellow]Astro Supersport 4[/COLOR]
+http://185.102.218.56/p2p/de760699e261e1d5fc29b84aa418bf60.m3u8
 
 #EXTINF:-1,[COLOR green]MUSIC[/COLOR]
 
@@ -187,11 +179,16 @@ http://csm-e.tm.yospace.com/csm/live/78581208.m3u8
 #EXTINF:-1,[COLOR blue]BOX UPFRONT[/COLOR]
 http://csm-e.tm.yospace.com/csm/live/78581152.m3u8
 
-#EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
-#EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
+#EXTINF:-1,[COLOR yellow]DOCUMENTARY[/COLOR]
+
+#EXTINF:-1,[COLOR blue]DISCOVERY[/COLOR]
 
 
+#EXTINF:-1,[COLOR blue]DISCOVERY HISTORY[/COLOR]
 
+
+#EXTINF:-1,[COLOR blue]DISCOVERY[/COLOR]
+#EXTINF:-1,[COLOR blue]DISCOVERY[/COLOR]
 
 
 
