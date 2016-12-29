@@ -1,12 +1,12 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,[COLOR orange]PHILS MEGA UKTV LIST[/COLOR]
+#EXTINF:-1,[COLOR blue]PHILS MEGA UKTV LIST[/COLOR]
  
 #EXTINF:-1,[COLOR green]UK TV[/COLOR]
 
 
 #EXTINF:-1,[COLOR red]BBC ONE[/COLOR]
-http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
+http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070000.m3u8
 
 #EXTINF:-1,[COLOR red]BBC 1 NW[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3%3d96000-video%3d1604000.norewind.m3u8
@@ -24,7 +24,7 @@ http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800
 http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1800.m3u8
 
 #EXTINF:-1,[COLOR red]ITV 3[/COLOR]
-http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
+http://edge-880-uk-ld.filmon.com/live/26.low.stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR red]ITV 4[/COLOR]
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
@@ -90,6 +90,15 @@ http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u
 http://simplestream.tvplayer.com/hera/remote/qvcuk_primary_sdi7/3/prog_index.m3u8
 
 
+
+#EXTINF:-1,[COLOR red][/COLOR]
+#EXTINF:-1,[COLOR red][/COLOR]
+#EXTINF:-1,[COLOR red][/COLOR]
+#EXTINF:-1,[COLOR red][/COLOR]
+#EXTINF:-1,[COLOR red][/COLOR]
+
+
+
 #EXTINF:-1,[COLOR green]KIDS[/COLOR]
 
 #EXTINF:-1,
@@ -98,6 +107,11 @@ http://vs-hls-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4
 
 #EXTINF:-1,[COLOR red]CBEEBIES[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d827000.m3u8
+
+#EXTINF:-1,
+
+
+
 
 
 #EXTINF:-1,[COLOR green]SPORTS[/COLOR]
@@ -131,7 +145,7 @@ http://88.150.206.73:8081/streamflare/skysports5/chunks.m3u8?nimblesessionid=201
 #EXTINF:-1,SkySportS F1
 http://88.150.206.73:8081/streamflare/skyf1/chunks.m3u8?nimblesessionid=20170872&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjIxOjE3IFBNJmhhc2hfdmFsdWU9dGF2bDJ1cUpaVmdOT2RocE5mVzZEQT09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-1,[COLOR yellow]BT Sport Europe[/COLOR]
+#EXTINF:-1,[COLOR yellow] BT Sport Europe[/COLOR]
 http://88.150.206.73:8081/streamflare/bteurope/chunks.m3u8?nimblesessionid=20170986&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxNiA0OjI1OjAwIFBNJmhhc2hfdmFsdWU9Q0MzbGhFZ0p6dzg5OFlOYnBMdHQ5UT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1,[COLOR yellow]BT Sport 1[/COLOR]
@@ -171,6 +185,12 @@ http://csm-e.tm.yospace.com/csm/live/78581208.m3u8
 http://csm-e.tm.yospace.com/csm/live/78581152.m3u8
 
 #EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
+#EXTINF:-1,[COLOR blue]4MUSIC[/COLOR]
+
+
+
+
+
 
 
 
