@@ -5,14 +5,14 @@
 #EXTINF:-1,[COLOR green]UK TV[/COLOR]
 
 
-#EXTINF:-1,[COLOR red]BBC ONE[/COLOR]
-http://vs-hls-uk-live.edgesuite.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070000.m3u8
+#EXTINF:-1,[COLOR red]BBC ONE NW[/COLOR]
+http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3%3d96000-video%3d1604032.norewind.m3u8
 
 #EXTINF:-1,[COLOR red]BBC 1[/COLOR]
 http://streams.yo.tv/srv4/ngrp:1.stream_all/chunklist_b1436442.m3u8
 
 #EXTINF:-1,[COLOR red]BBC TWO[/COLOR]
-http://live.tvplayer.com/bbctwo/5/prog_index.m3u8
+http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8
 
 #EXTINF:-1,[COLOR red]BBC FOUR[/COLOR]
 http://vs-hls-uk-live.edgesuite.net/pool_33/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070000.m3u8
