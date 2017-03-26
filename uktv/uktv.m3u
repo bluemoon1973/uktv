@@ -14,8 +14,8 @@ http://streams.yo.tv/srv4/ngrp:1.stream_all/chunklist_b1436442.m3u8
 #EXTINF:-1,[COLOR red]BBC TWO[/COLOR]
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8
 
-#EXTINF:-1,[COLOR red]BBC FOUR[/COLOR]
-http://vs-hls-uk-live.edgesuite.net/pool_33/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070000.m3u8
+#EXTINF:-1,[COLOR red]Snow white[/COLOR]
+http://192.168.1.138:49153/description0.xml
 
 #EXTINF:-1,[COLOR red]ITV 1[/COLOR]
 http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
