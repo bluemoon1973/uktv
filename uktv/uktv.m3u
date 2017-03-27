@@ -26,7 +26,7 @@ http://edge-880-uk-ld.filmon.com/live/26.low.stream/playlist.m3u8
 #EXTINF:-1,[COLOR red]itv 4[/COLOR]
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
-#EXTINF:-1,[COLOR red]4[/COLOR]
+#EXTINF:-1,[COLOR red]Channel 4[/COLOR]
 http://live.tvplayer.com/channel4/5/prog_index.m3u8
 
 #EXTINF:-1,[COLOR red]5[/COLOR]
