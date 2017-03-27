@@ -14,25 +14,22 @@ http://streams.yo.tv/srv4/ngrp:1.stream_all/chunklist_b1436442.m3u8
 #EXTINF:-1,[COLOR red]BBC TWO[/COLOR]
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8
 
-#EXTINF:-1,[COLOR red]Snow white[/COLOR]
-http://192.168.1.138:49153/description0.xml
-
-#EXTINF:-1,[COLOR red]ITV 1[/COLOR]
+#EXTINF:-1,[COLOR red]itv[/COLOR]
 http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
 
-#EXTINF:-1,[COLOR red]ITV 2[/COLOR]
+#EXTINF:-1,[COLOR red]itv 2[/COLOR]
 http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1800.m3u8
 
-#EXTINF:-1,[COLOR red]ITV 3[/COLOR]
+#EXTINF:-1,[COLOR red]itv 3[/COLOR]
 http://edge-880-uk-ld.filmon.com/live/26.low.stream/playlist.m3u8
 
-#EXTINF:-1,[COLOR red]ITV 4[/COLOR]
+#EXTINF:-1,[COLOR red]itv 4[/COLOR]
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
-#EXTINF:-1,[COLOR red]CHANNEL 4[/COLOR]
+#EXTINF:-1,[COLOR red]4[/COLOR]
 http://live.tvplayer.com/channel4/5/prog_index.m3u8
 
-#EXTINF:-1,[COLOR red]CHANNEL 5[/COLOR]
+#EXTINF:-1,[COLOR red]5[/COLOR]
 http://live.tvplayer.com/channel5/5/prog_index.m3u8
 
 #EXTINF:-1,[COLOR red]5*[/COLOR]
